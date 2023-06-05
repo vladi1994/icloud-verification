@@ -1,8 +1,5 @@
 Apple Fake Verifier
 ===================
 
-Phising script of Apple ID verification. Use it at your own risks.
+Phising script of Apple ID verification  created with PHP
 
-Feel free to use it, edit it and do whatever you want.
-
-> Tahgoonz
